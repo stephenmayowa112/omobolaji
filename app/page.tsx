@@ -171,7 +171,7 @@ export default function Home() {
                   <h4 className="text-lg font-semibold">UI/UX Designer</h4>
                   <span className="text-sm text-gray-400">[AT BYTEDANCE]</span>
                 </div>
-                <div className="text-xs text-gray-500 mb-2">March 2021 - Nov 2022</div>
+                <div className="text-xs text-gray-500 mb-2">March 2021 - June 2023</div>
                 <p className="text-sm text-gray-300 leading-relaxed">
                   Redesigned the User Interface for the LetsChat app, resulting in a remarkable 500% increase in sign
                   ups and a 4.7/5 rating on softonic.
