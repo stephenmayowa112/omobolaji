@@ -164,17 +164,7 @@ export default function Home() {
                 </p>
               </div>
 
-              <div className="hover:bg-gray-900/50 p-4 rounded-lg transition-all duration-300 hover:transform hover:translateX-2">
-                <div className="flex items-center gap-4 mb-2">
-                  <h4 className="text-lg font-semibold">Product and Brand Designer</h4>
-                  <span className="text-sm text-gray-400">[AT CASHINGAMES]</span>
-                </div>
-                <div className="text-xs text-gray-500 mb-2">Dec 2022 - April 2023</div>
-                <p className="text-sm text-gray-300 leading-relaxed">
-                  Redesigned the User Interface for the Cashingames mobile app resulting in over 200% download increase
-                  within the first 3 months.
-                </p>
-              </div>
+
 
               <div className="hover:bg-gray-900/50 p-4 rounded-lg transition-all duration-300 hover:transform hover:translateX-2">
                 <div className="flex items-center gap-4 mb-2">
