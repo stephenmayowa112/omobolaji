@@ -145,7 +145,7 @@ export default function Home() {
                   <h4 className="text-lg font-semibold">UX Designer</h4>
                   <span className="text-sm text-gray-400">[AT DIASPORANZ]</span>
                 </div>
-                <div className="text-xs text-gray-500 mb-2">August 2025 - Present</div>
+                <div className="text-xs text-gray-500 mb-2">August 2024 - Present</div>
                 <p className="text-sm text-gray-300 leading-relaxed">
                   Designed the Diasporanz mobile app with a cross-functional team. Created end-to-end user journeys and
                   mobile interfaces for a social media app connecting diasporans worldwide.
